@@ -178,38 +178,6 @@ Ministagram
 
 
 
-\## Performance
-
-
-
-| Operation | Time Complexity | Space Complexity |
-
-|---|---|---|
-
-| Create Account | O(u) | O(1) per user |
-
-| Login | O(u) | O(1) |
-
-| Create Post | O(1) | O(1) |
-
-| View Feed (sort) | O(n log n) | O(n) |
-
-| Search Friend/Post | O(n) | O(1) |
-
-| Like / Unlike | O(1) | O(1) |
-
-| Add Comment | O(1) | O(1) |
-
-| Undo Action | O(1) | O(1) |
-
-| Friend Request | O(u) | O(1) |
-
-
-
-\---
-
-
-
 \## Getting Started
 
 
@@ -263,20 +231,6 @@ python main.py
 
 
 \---
-
-
-
-\## Course Context
-
-
-
-\*\*Course:\*\* Data Structures \& Algorithms Lab
-
-\*\*Institution:\*\* University of Engineering \& Technology, Lahore
-
-\*\*Session:\*\* 2024–2028 (Morning)
-
-\*\*Supervised by:\*\* Ms. Rabeeya Saleem
 
 
 
