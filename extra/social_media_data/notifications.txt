@@ -1,0 +1,148 @@
+{
+  "minahilM05": [
+    {
+      "type": "like",
+      "from_user": "lali",
+      "message": "Lali liked your post",
+      "timestamp": "2025-11-24T02:22:47.618830",
+      "read": true
+    },
+    {
+      "type": "like",
+      "from_user": "lali",
+      "message": "Lali liked your post",
+      "timestamp": "2025-11-24T02:22:50.664134",
+      "read": true
+    },
+    {
+      "type": "friend_request",
+      "from_user": "lali",
+      "message": "Lali sent you a friend request",
+      "timestamp": "2025-11-24T02:23:09.458517",
+      "read": true
+    },
+    {
+      "type": "like",
+      "from_user": "lali",
+      "message": "Lali liked your post",
+      "timestamp": "2025-11-24T02:23:24.577867",
+      "read": true
+    },
+    {
+      "type": "like",
+      "from_user": "lali",
+      "message": "Lali liked your post",
+      "timestamp": "2025-11-24T20:24:04.709508",
+      "read": true
+    },
+    {
+      "type": "like",
+      "from_user": "lali",
+      "message": "Lali liked your post",
+      "timestamp": "2025-11-26T10:37:35.172275",
+      "read": true
+    },
+    {
+      "type": "like",
+      "from_user": "lali",
+      "message": "Lali liked your post",
+      "timestamp": "2025-11-26T10:37:38.739589",
+      "read": true
+    },
+    {
+      "type": "friend_request",
+      "from_user": "aatika",
+      "message": "Aatika sent you a friend request",
+      "timestamp": "2025-11-26T10:40:24.750648",
+      "read": true
+    },
+    {
+      "type": "like",
+      "from_user": "aatika",
+      "message": "Aatika liked your post",
+      "timestamp": "2025-11-26T10:40:36.340723",
+      "read": true
+    },
+    {
+      "type": "like",
+      "from_user": "aatika",
+      "message": "Aatika liked your post",
+      "timestamp": "2025-11-26T10:40:37.572165",
+      "read": true
+    },
+    {
+      "type": "like",
+      "from_user": "aatika",
+      "message": "Aatika liked your post",
+      "timestamp": "2025-11-26T10:40:54.669469",
+      "read": true
+    },
+    {
+      "type": "comment",
+      "from_user": "aatika",
+      "message": "Aatika commented on your post",
+      "timestamp": "2025-11-26T10:41:02.824095",
+      "read": true
+    }
+  ],
+  "lali": [
+    {
+      "type": "friend_accepted",
+      "from_user": "minahilM05",
+      "message": "Minahil Mehmood accepted your friend request",
+      "timestamp": "2025-11-24T02:24:37.126070",
+      "read": true
+    },
+    {
+      "type": "like",
+      "from_user": "minahilM05",
+      "message": "Minahil Mehmood liked your post",
+      "timestamp": "2025-11-24T02:25:16.085691",
+      "read": true
+    },
+    {
+      "type": "like",
+      "from_user": "minahilM05",
+      "message": "Minahil Mehmood liked your post",
+      "timestamp": "2025-11-24T16:35:01.145293",
+      "read": true
+    },
+    {
+      "type": "like",
+      "from_user": "minahilM05",
+      "message": "Minahil Mehmood liked your post",
+      "timestamp": "2025-11-24T20:24:42.320746",
+      "read": true
+    }
+  ],
+  "aatika": [
+    {
+      "type": "friend_accepted",
+      "from_user": "minahilM05",
+      "message": "Minahil Mehmood accepted your friend request",
+      "timestamp": "2025-11-26T10:42:14.788433",
+      "read": false
+    },
+    {
+      "type": "like",
+      "from_user": "minahilM05",
+      "message": "Minahil Mehmood liked your post",
+      "timestamp": "2025-11-26T10:42:37.061747",
+      "read": false
+    },
+    {
+      "type": "comment",
+      "from_user": "minahilM05",
+      "message": "Minahil Mehmood commented on your post",
+      "timestamp": "2025-11-26T10:42:42.276112",
+      "read": false
+    },
+    {
+      "type": "friend_request",
+      "from_user": "lali",
+      "message": "Lali sent you a friend request",
+      "timestamp": "2025-11-26T11:26:51.272017",
+      "read": false
+    }
+  ]
+}

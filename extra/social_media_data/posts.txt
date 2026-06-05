@@ -1,0 +1,163 @@
+[
+  {
+    "post_id": "91b8947594bd7d80ce03227df7edde0b",
+    "username": "minahilM05",
+    "text": "lazy",
+    "media_path": "C:/Users/NSC/Pictures/Screenshots/Screenshot 2025-11-20 201304.png",
+    "likes": [
+      "minahilM05",
+      "lali",
+      "aatika"
+    ],
+    "views": [
+      "minahilM05",
+      "lali",
+      "aatika"
+    ],
+    "comments": [
+      {
+        "username": "minahilM05",
+        "text": "Big days",
+        "timestamp": "2025-11-24T02:19:40.034110"
+      },
+      {
+        "username": "minahilM05",
+        "text": "Little sleeps",
+        "timestamp": "2025-11-24T02:19:53.527130"
+      },
+      {
+        "username": "minahilM05",
+        "text": "Ughh",
+        "timestamp": "2025-11-24T02:20:06.247588"
+      },
+      {
+        "username": "aatika",
+        "text": "slayy",
+        "timestamp": "2025-11-26T10:41:02.824071"
+      }
+    ],
+    "timestamp": "2025-11-24T02:19:27.699673"
+  },
+  {
+    "post_id": "3d75201687cdbb863fcb474b8b9e49f4",
+    "username": "minahilM05",
+    "text": "Drip too hard",
+    "media_path": "C:/Users/NSC/Pictures/Screenshots/Screenshot 2025-11-21 161710.png",
+    "likes": [
+      "minahilM05",
+      "lali"
+    ],
+    "views": [
+      "minahilM05",
+      "lali",
+      "aatika"
+    ],
+    "comments": [
+      {
+        "username": "minahilM05",
+        "text": "Slayer",
+        "timestamp": "2025-11-24T02:20:45.536346"
+      }
+    ],
+    "timestamp": "2025-11-24T02:20:31.811800"
+  },
+  {
+    "post_id": "c6de37e6b2df7e10e47a363337ce654b",
+    "username": "lali",
+    "text": "How assignments got me feeling",
+    "media_path": "C:/Users/NSC/Pictures/Screenshots/Screenshot 2025-11-21 135136.png",
+    "likes": [
+      "lali",
+      "minahilM05"
+    ],
+    "views": [
+      "lali",
+      "minahilM05",
+      "aatika"
+    ],
+    "comments": [
+      {
+        "username": "lali",
+        "text": "saddd",
+        "timestamp": "2025-11-24T02:22:31.547102"
+      },
+      {
+        "username": "lali",
+        "text": "ehhhh:(",
+        "timestamp": "2025-11-24T02:23:38.644950"
+      }
+    ],
+    "timestamp": "2025-11-24T02:22:04.766504"
+  },
+  {
+    "post_id": "aace8aa445015fc2450817578e62fb54",
+    "username": "lali",
+    "text": "Art making art",
+    "media_path": "C:/Users/NSC/Downloads/download.jpeg",
+    "likes": [
+      "lali",
+      "minahilM05"
+    ],
+    "views": [
+      "lali",
+      "minahilM05",
+      "aatika"
+    ],
+    "comments": [
+      {
+        "username": "lali",
+        "text": "Hell yeahhh",
+        "timestamp": "2025-11-24T16:41:54.149215"
+      },
+      {
+        "username": "lali",
+        "text": "what a masterpirce",
+        "timestamp": "2025-11-24T16:42:05.651039"
+      }
+    ],
+    "timestamp": "2025-11-24T16:40:31.705378"
+  },
+  {
+    "post_id": "7b2321b8e7d8557691a3edb435a308f4",
+    "username": "aatika",
+    "text": "struggling with cnl",
+    "media_path": "C:/Users/NSC/Pictures/Screenshots/Screenshot 2025-11-26 103145.png",
+    "likes": [
+      "aatika",
+      "minahilM05"
+    ],
+    "views": [
+      "aatika",
+      "minahilM05",
+      "lali"
+    ],
+    "comments": [
+      {
+        "username": "minahilM05",
+        "text": "sem sem",
+        "timestamp": "2025-11-26T10:42:42.276090"
+      }
+    ],
+    "timestamp": "2025-11-26T10:41:30.689826"
+  },
+  {
+    "post_id": "e7b4ee1e81e2671b48fd18dcf8faa6a0",
+    "username": "lali",
+    "text": "mirror selfiee",
+    "media_path": "C:/Users/NSC/Pictures/Screenshots/Screenshot 2025-11-25 115845.png",
+    "likes": [
+      "lali"
+    ],
+    "views": [
+      "lali"
+    ],
+    "comments": [
+      {
+        "username": "lali",
+        "text": "teaaaaaaaaaaaaaaa",
+        "timestamp": "2025-11-26T11:27:15.178490"
+      }
+    ],
+    "timestamp": "2025-11-26T10:56:58.023535"
+  }
+]

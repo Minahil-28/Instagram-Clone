@@ -1,0 +1,52 @@
+[
+  {
+    "username": "minahilM05",
+    "name": "Minahil Mehmood",
+    "email": "minahil@gmail.com",
+    "password": "fcfdf41e25ab659af3bed61ad6d6b9d965e7660f4270110e047a6f5c3ded6c4b",
+    "bio": "TEAAA",
+    "dob": "30/11/2004",
+    "profile_pic": "",
+    "friends": [
+      "lali",
+      "aatika"
+    ],
+    "friend_requests_sent": [],
+    "friend_requests_received": [],
+    "created_at": "2025-11-24T02:19:15.894466"
+  },
+  {
+    "username": "lali",
+    "name": "Lali",
+    "email": "lali@gmail.com",
+    "password": "6da519fbb39a1530e5882cccb34b155f2d57540d2b0d7b2d002dae1ec672fc00",
+    "bio": "Always been a baddie",
+    "dob": "03/11/2004",
+    "profile_pic": "",
+    "friends": [
+      "minahilM05"
+    ],
+    "friend_requests_sent": [
+      "aatika"
+    ],
+    "friend_requests_received": [],
+    "created_at": "2025-11-24T02:21:25.424615"
+  },
+  {
+    "username": "aatika",
+    "name": "Aatika",
+    "email": "aatika@GMAIL.COM",
+    "password": "ad53b5f881ba0e6ae79f0077d8882a9a7181ddf97620bb1b0909932e36099504",
+    "bio": "hi",
+    "dob": "12/06/2004",
+    "profile_pic": "",
+    "friends": [
+      "minahilM05"
+    ],
+    "friend_requests_sent": [],
+    "friend_requests_received": [
+      "lali"
+    ],
+    "created_at": "2025-11-26T10:39:46.953294"
+  }
+]
